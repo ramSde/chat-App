@@ -1,4 +1,4 @@
-# FalaComigo
+
 A fully working chat app made with Flutter, Node.js, Socket.io, MongoDB, SQLite and Firebase Messaging.
 
 ## Setup the project
